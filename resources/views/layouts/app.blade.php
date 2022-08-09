@@ -36,6 +36,9 @@
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="/categories">Category</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/author">Author</a>
+                            </li>
                         </ul>
                     @endauth
                     

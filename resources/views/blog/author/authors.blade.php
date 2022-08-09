@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <h3 class="card-header"><b>Category list</b></h3>
+                <h3 class="card-header"><b>Author list</b></h3>
 
                 <div class="card-body">
                     <div class="list-group">
