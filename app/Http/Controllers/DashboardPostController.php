@@ -60,7 +60,7 @@ class DashboardPostController extends Controller
         //upload image
         $image = $request->file('image');
         $imageName = $image->hashName();
-        $image->storeAs('public/posts', $imageName);
+        $image->storeAs('posts', $imageName);
 
         //create post
         $post = Post::create([

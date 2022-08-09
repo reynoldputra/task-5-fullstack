@@ -42,7 +42,7 @@
                 <button type="submit" class="btn btn-primary">Create post</button>
             </div>
             <div class="col-2">
-                <a href="/dashboard/posts" class="btn btn-success">Back</a>
+                <a href="/dashboard/posts" class="btn btn-secondary">Back</a>
             </div>
         </div>
     </form><!-- End General Form Elements -->
