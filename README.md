@@ -25,4 +25,4 @@ Tujuan : Agar dapat menerapkan fitur blade serta laravel ui ke dalam project
 
 
 MY ERD :
-![Article ERD](https://user-images.githubusercontent.com/87769109/184395606-cc4b0e5c-e3ef-4000-a4aa-51e12c711da2.jpeg)
+![Article ERD (1)](https://user-images.githubusercontent.com/87769109/184395884-75b75388-2f5a-48b8-b34c-73d69234b811.jpeg)
