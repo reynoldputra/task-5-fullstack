@@ -22,3 +22,7 @@ Tujuan : Agar dapat menerapkan fitur blade serta laravel ui ke dalam project
 - [Done] Gunakan laravel blade untuk membuat templatenya
 - [Done] Gunakan relasi laravel eloquent untuk menghubungkan relasi antar tabel
 - [Done] Gunakan seeder untuk membuat sample user
+
+
+MY ERD :
+![Article ERD](https://user-images.githubusercontent.com/87769109/184395606-cc4b0e5c-e3ef-4000-a4aa-51e12c711da2.jpeg)
