@@ -22,4 +22,3 @@ Tujuan : Agar dapat menerapkan fitur blade serta laravel ui ke dalam project
 - [Done] Gunakan laravel blade untuk membuat templatenya
 - [Done] Gunakan relasi laravel eloquent untuk menghubungkan relasi antar tabel
 - [Done] Gunakan seeder untuk membuat sample user
-- [    ] Unit testing setiap halaman crud dan fitur 
